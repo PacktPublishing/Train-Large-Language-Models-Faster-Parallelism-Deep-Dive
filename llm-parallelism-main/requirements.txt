@@ -20,7 +20,7 @@ networkx==3.4.2
 numpy==2.2.4
 packaging==24.2
 pandas==2.2.3
-pillow==11.1.0
+pillow==12.1.1
 propcache==0.3.0
 pyarrow==19.0.1
 python-dateutil==2.9.0.post0
